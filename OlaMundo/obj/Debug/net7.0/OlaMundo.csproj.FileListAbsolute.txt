@@ -1,0 +1,14 @@
+/workspace/entitycrud/OlaMundo/obj/Debug/net7.0/OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/entitycrud/OlaMundo/obj/Debug/net7.0/OlaMundo.AssemblyInfoInputs.cache
+/workspace/entitycrud/OlaMundo/obj/Debug/net7.0/OlaMundo.AssemblyInfo.cs
+/workspace/entitycrud/OlaMundo/obj/Debug/net7.0/OlaMundo.csproj.CoreCompileInputs.cache
+/workspace/entitycrud/OlaMundo/bin/Debug/net7.0/OlaMundo
+/workspace/entitycrud/OlaMundo/bin/Debug/net7.0/OlaMundo.deps.json
+/workspace/entitycrud/OlaMundo/bin/Debug/net7.0/OlaMundo.runtimeconfig.json
+/workspace/entitycrud/OlaMundo/bin/Debug/net7.0/OlaMundo.dll
+/workspace/entitycrud/OlaMundo/bin/Debug/net7.0/OlaMundo.pdb
+/workspace/entitycrud/OlaMundo/obj/Debug/net7.0/OlaMundo.dll
+/workspace/entitycrud/OlaMundo/obj/Debug/net7.0/refint/OlaMundo.dll
+/workspace/entitycrud/OlaMundo/obj/Debug/net7.0/OlaMundo.pdb
+/workspace/entitycrud/OlaMundo/obj/Debug/net7.0/OlaMundo.genruntimeconfig.cache
+/workspace/entitycrud/OlaMundo/obj/Debug/net7.0/ref/OlaMundo.dll
