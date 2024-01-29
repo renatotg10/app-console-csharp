@@ -1,6 +1,15 @@
-# Instalações ao iniciar o Workspace do GitPod
+# Aprendendo e Praticando C# através de criação de apicações Console
+Renato Gomes - renatotgomes.dev@gmail.com
 
-link do GitPod: https://www.gitpod.io/
+Para isso estou utilizando o ambiente de desenvolvimento em nuvem *Gitpod* (https://www.gitpod.io).
+
+Para utilizar o Gitpod, é necessário criar um repositório público no GitHub.
+
+Ao acessar o *Gitpod* (https://www.gitpod.io), poderá fazer o login utilizando sua conta do GitHub.
+
+Na criação de um Workspace no Gitpod, será solicitado o link do seu repositório do GitHub.
+
+Observação: Se for necessário fazer alguma instalação de aplicação, ferramenta e software no Linux (se esta não estiver instalada por padrão - exemplo DOTNET, MySQL etc), sempre que carregar o Workspace do Gitpod, será necessário instalá-los novamente.
 
 ## Instalação do DOTNET
 
